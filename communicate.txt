@@ -10,3 +10,6 @@
  sharp
  webshots
  picked
+italiano
+ rubber
+ pectic
