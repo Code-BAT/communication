@@ -6,3 +6,7 @@
   shame
   cablegram
   incapable
+
+ sharp
+ webshots
+ picked
